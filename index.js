@@ -1,7 +1,7 @@
-const challengeFunction = function(param){
+const factorialize = function(num){
     /* YOUR CODE HERE */
 
-    return param
+    return
 }
 
-module.exports = challengeFunction
+module.exports = factorialize
