@@ -37,13 +37,13 @@ npm run test
 ## Tests
 
 ### Test 1
-**Parametros**: num = 5  
-**Resultado esperado**: 120
+- **Parametros**: num = 5  
+- **Resultado esperado**: 120
 ---
 ### Test 2
-**Parametros**:  num = 10  
-**Resultado esperado**: 3628800
+- **Parametros**:  num = 10  
+- **Resultado esperado**: 3628800
 ---
 ### Test 3
-**Parametros**: num = 1  
-**Resultado esperado**: 1
+- **Parametros**: num = 1  
+- **Resultado esperado**: 1
