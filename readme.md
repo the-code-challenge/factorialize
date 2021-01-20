@@ -5,21 +5,27 @@ Devuelve el factorial del entero proporcionado.
 Si el número entero se representa con la letra **n**, un factorial es el producto de todos los números enteros positivos menores o iguales a **n**.
 
 ## Instrucciones
-Editar el codigo de la funcion en el archivo index.js y luego correr los test
+- Crear un nuevo repositorio utilizando este repositorio como template (Boton: use this template).
+- Editar el código de la función definida en el archivo index.js con un algoritmo que permita obtener los resultados esperados en los test.
+- Ejecutar los test validando que todos resulten exitosos
+
 
 ## Ejecutar Pruebas
-
+Instalar dependencias (mocha)
 ```
 npm install
-npm run test
 ```
 
+Ejecutar test
+```
+npm run test
+```
 ## Entrada
 
-### Param 1: num
-
-- **Tipo**: Number (Integer)
-- **Limitaciones**: 0 < **num** <= 10
+##### Parámetro 1
+- **nombre**: num
+- **tipo**: Number (Integer)
+- **limitaciones**: 0 < **num** <= 10
 
 ## Salida
 
@@ -31,29 +37,13 @@ npm run test
 ## Tests
 
 ### Test 1
-5 debe retornar 120
-
-**Parametros**: 
-- num = 5
-
-**Resultado**: 120
-
+**Parametros**: num = 5  
+**Resultado esperado**: 120
 ---
-
 ### Test 2
-10 debe retornar 3628800
-
-**Parametros**: 
-- num = 10
-
-**Resultado**: 3628800
-
+**Parametros**:  num = 10  
+**Resultado esperado**: 3628800
 ---
-
 ### Test 3
-1 debe retornar 1
-
-**Parametros**: 
-- num = 1
-
-**Resultado**: 1
+**Parametros**: num = 1  
+**Resultado esperado**: 1
