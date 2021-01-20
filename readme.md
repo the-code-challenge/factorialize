@@ -47,3 +47,11 @@ npm run test
 ### Test 3
 - **Parametros**: num = 1  
 - **Resultado esperado**: 1
+---
+### Test 4
+- **Parametros**: num = 3  
+- **Resultado esperado**: 6
+---
+### Test 5
+- **Parametros**: num = 7  
+- **Resultado esperado**: 5040
